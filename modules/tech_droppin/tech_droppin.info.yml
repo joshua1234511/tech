@@ -1,0 +1,5 @@
+name: Tech Droppin Custom Module
+type: module
+description: Tech Droppin custom code
+package: Tech Droppin
+core: 8.x
